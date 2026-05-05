@@ -1,6 +1,6 @@
 # DevOps 10 - Docker Compose
 
-- https://github.com/YakirBar/sv-college-docker-compose/blob/main/EX%20-%20Docker%20Compose.md
+[The Exercise](https://github.com/YakirBar/sv-college-docker-compose/blob/main/EX%20-%20Docker%20Compose.md)
 
 1. Create SQL Database MySQL Using Docker Compose
 2. Create Python Web Application
